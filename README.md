@@ -1,5 +1,5 @@
-# Personal-Projects
-The repository for my personal projects throughout my years in college or outside of Academia. 
+# School Projects
+This repository is mainly for projects done inside college that do not belong anywhere else, or are a single type lab project. 
 
 
 tlc_fsm is a traffic light control model created my sophomore year in ECEN using Verilog for a lab.
